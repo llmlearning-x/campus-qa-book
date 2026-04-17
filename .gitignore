@@ -1,0 +1,11 @@
+venv/
+*.env
+uploads/
+*.faiss
+*.index
+dist/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+book/

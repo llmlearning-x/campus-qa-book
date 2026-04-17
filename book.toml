@@ -1,0 +1,12 @@
+[book]
+authors = ["llmlearning-x"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "从零构建校园问答助手：RAG全栈实战开发指南"
+description = "面向在校大学生和实训学员的RAG全栈实战教程，从零开始搭建校园知识问答系统"
+
+[output.html]
+theme = "light"
+git-repository-url = "https://github.com/llmlearning-x/campus-qa-book"
+edit-url-template = "https://github.com/llmlearning-x/campus-qa-book/edit/main/{path}"
